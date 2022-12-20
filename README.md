@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bruno Galdos</h1>
 <h3 align="center">A robotic systems engineering student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/25/ef/00/25ef00ef85e23a054f40bbee7b4931bc.gif">
-- 🔭 I’m currently working on  **Computer Vision, Machine learning and Applied Numerical Optimization
+- 🔭 I’m currently working on  **Computer Vision, Machine learning and Applied Numerical Optimization**
 
 - 🌱 I’m currently learning **Applied Numerical Optimization**
 
