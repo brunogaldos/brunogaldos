@@ -1,31 +1,21 @@
 
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/25/ef/00/25ef00ef85e23a054f40bbee7b4931bc.gif">
+<h1 align="center">Hi 👋, I'm Bruno Galdos</h1>
 <h3 align="center">A robotic systems engineering student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/25/ef/00/25ef00ef85e23a054f40bbee7b4931bc.gif">
-- 💻 I’m currently working on  </h2>
-- Computer Vision
-- Machine learning  
-- Applied Numerical Optimization
+
+- 🔭 I’m currently working on **Applied Numerical Optimization, Computer Vision, Machine learning
+
 - 🌱 I’m currently learning **Applied Numerical Optimization**
 
-<div>
-  <p>
-    <a href="https://github.com/laxmena/PyCalendly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/laxmena/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<h2>👀 Stats</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<h2> Bruno Galdos⚡:</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunogaldos&show_icons=true&locale=en&layout=compact" alt="brunogaldos" /></p>
 
-I'm a Student living in Germany, Aachen. Outside Tech, I love to read, play guitar and explore nature outdoors.
- 
-- Write to me: [brunogaldos27@gmail.com](mailto:brunogaldos27@gmail.com)
-
-<h2>📫 How to reach me:</h2>
-
-<a href="mailto:brunogaldos27@gmail.com">![brunogaldos27@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://https://www.linkedin.com/in/bruno-galdos-a25353a9/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunogaldos&" alt="brunogaldos" /></p>
