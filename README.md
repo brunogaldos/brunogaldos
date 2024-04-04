@@ -2,9 +2,9 @@
 <h3 align="center">A robotic systems engineering student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/25/ef/00/25ef00ef85e23a054f40bbee7b4931bc.gif">
 
-- 🔭 I’m currently working on **Applied Numerical Optimization, Computer Vision, Machine learning**
+- 🔭 I have expertise on **Applied Numerical Optimization, Computer Vision, Machine learning, Mobile robot navigation**
 
-- 🌱 I’m currently learning **Applied Numerical Optimization**
+- 🌱 I’m currently working on **Mobile robot navigation and localization**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
