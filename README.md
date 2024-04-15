@@ -4,7 +4,7 @@
 
 - 🔭 I have expertise on **Applied Numerical Optimization, Computer Vision, Machine learning, Mobile robot navigation**
 
-- 🌱 I’m currently working on **Mobile robot navigation and localization**
+- 🌱 I’m currently working on **Mobile robot navigation and localization, Vision Transformers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
